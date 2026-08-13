@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <!--Header Section -->
+   <header>
+    <h1>Ambesiwe Designs</h1>
+
+    <!--Navigation Links-->
+    <nav>
+        <a href="../index.html">Home</a>
+        <a href="./services.html">Services</a>
+        <a href="./contact.html">Contact</a>
+        <a href="./enquiry.html">Enquiry</a>
+        </nav>
+   </header>
+   <!--Main Section-->
+   <main>
+        <section>
+            <h2 style="text-align: center;color: red;width: 100%;">Enquiry and Booking Request</h2>
+        <p>
+            Intrested in custom traditional wear, wedding garments, or specific alterations?
+            Fill out the enquiry form below, and we will get back to you with details and pricing options.
+        </p>
+<!--Empty Form--->
+<form>
+    <!--Full name-->
+    <p>
+        <label for="fullname">Full Name:</label><br>
+        <input type="text" id="fullname" name="fullname" required>
+    </p>
+
+    <!--Phone Number--->
+    <p>
+        <label for="phone">Phone / whatsApp Number:</label><br>
+        <input type="tel" id="phone" name="phone" required>
+    </p>
+   <!--Service Selection form-->
+   <p>
+    <label for="service">Select Service Required:</label><br>
+    <select id="service" name="service">
+        <option value="traditional">Bespoke Traditional Wear</option>
+        <option value="Wedding">Custom Wedding Attire</option>
+        <option value="Alterations">Trouser Alterations and Repairs</option>
+        <option value="other">Other Inquiry</option>
+    </select>
+   </p>
+   <!--Preferd Fitting / Measurements-->
+   <p>
+    <label for="event-date">Target Date (Event or Fitting)</label><br>
+    <input type="date" id="event-date" name="event-date">
+    </p>
+        
+    <!---Detailed Request / Meassurements-->
+    <p>
+        <label for="details">Design and Specific Request:</label><br>
+        <textarea id="details" name="details" rows="6" cols="40" placeholder="Tell us about the fabric, design ideas, or specific sizing you have in mind.."></textarea>
+    </p>
+
+    <!--Submit Button-->
+    <p>
+        <input type="submit" value="Submit Enquiry">    
+    </p>
+
+</form>
+    </section>
+   </main>
+
+   <!--Footer Section-->
+   <footer>
+    <p>&copy; 2026 Ambesiwe Designs. All rights reserved. </p>
+    <p>Contact us at info@ambesiwe designs.com</p>
+   </footer>
+   
+</body>
+</html>
