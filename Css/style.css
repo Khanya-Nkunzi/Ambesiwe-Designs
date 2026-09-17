@@ -65,6 +65,21 @@ nav a:hover {
     color: #ffffff;
 }
 
+/* Accessibility focus States*/
+/* keyboard users can see which element is focused */
+
+a:focus, button:focus {
+    outline: 2px solid #c05a3e;
+    outline-offset: 3px;
+}
+
+/* navigation Hover and Active States */
+
+nav a:active {
+    background-color: #0056b3;
+    transform: translate(1px);
+}
+
 /* Section and Content Styling */
 
 section h1, section h2, section h3 {
@@ -186,6 +201,71 @@ text-align: center;
     text-align: center;
     border-left: 4px solid #0056b3;
 }
+
+
+ /* Tablet and Mobile devices  layout adjustments */
+ @media screen and (max-width: 768px) {
+    /* Responsive adjustments for smaller screens */
+    header h1 {
+        font-size: 1.75rem;
+    }
+  /* Scales the section headings down for better fit on smaller screens */
+    section h1, section h2, section h3 {
+        font-size: 1.4rem;
+        margin-bottom: 12px;
+    }
+
+    /* Ensures comfortable reading on smaller devices */
+    p, li {
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+
+    /* Allowing rotation of navigation items to stack vertically for better accessibility */
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px 0;
+    }
+
+    nav li {
+        width: 100%;
+        text-align: center;
+ }
+
+ nav a {
+        display: block;
+        width: 80%;
+        margin: 0 auto;
+        padding: 10px 0;
+    }
+
+/* Resopnsive layout and Paddding */
+    media {
+        padding: 0 12px;
+        margin: 15px auto;
+    }
+
+    section {
+        padding: 18px 15px;
+        margin-bottom: 15px; 
+
+    }
+
+    /* Responsive Images adjustments for smaller screens */
+    header img, section img {
+        width: 100%;
+        max-height: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    
+
+ }
+
+ 
+
 
 
 
