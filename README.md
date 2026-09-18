@@ -1,7 +1,7 @@
 # Ambesiwe-Designs
 A multi page website built for Ambesiwe Designs, a bespoke tailoring shop based in Komani (Queenstown) specializing in custom traditional Xhosa attire, wedding wear and beaedwork.
 
-------------------------
+---
 ## Site Pges
 index.html - Home page and brand showcase
 about.html - Brand story, core values and founder profiel
