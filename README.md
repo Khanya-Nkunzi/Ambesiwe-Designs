@@ -33,5 +33,10 @@ Git&Github
 - ** Media Queries:** Added @media screen and (max-width: 768px) to stack items vertically on small screens and phones.
 - **Fluid Images:** Set object fit: cover and dynamic widths on images so they scale without stretching or breaking the layout.
 - **Mobile Forms** Adjusted input padding and text size to make typing easy on phone touchscreens.
+
+- ## 3. Colors and Interactivity
+- **Brand Colors:** Applied Royal blue , warm Terracotta and soft Ochre across the site.
+- **Hover and Focus Effects:**    Added zoom effects on pictures when hovered, smooth button hover animations and blue border outlines when clicking into input boxes.
+-  
 - 
    
