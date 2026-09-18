@@ -13,7 +13,7 @@ contact.html - Location, contact details and operating hours
 HtMl5
 Visual Studio Code
 Git&Github
------------------------------------------
+---
 ## How to Run
 1. Clone or download the repository
 2. Open the project folder in Vs Code
