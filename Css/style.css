@@ -234,6 +234,12 @@ text-align: center;
     section h1, section h2, section h3 {
         font-size: 1.4rem;
         margin-bottom: 12px;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 15px;
+        width: 100%;
+        max-width: 100%;
+        padding-right: 15px;
     }
 
     /* Ensures comfortable reading on smaller devices */
@@ -286,15 +292,40 @@ text-align: center;
  /* Smaller mobile devices adjustments */
  @media screen and (max-width: 480px) {
     header h1 {
-        font-size: 145rem;
+        font-size: 1.5rem;
     }
 
     section h1, section h2, section h3 {
-        font-size: 1.25rem;
+        font-size: 1.3rem;
+    }
+
+    p, a, li {
+        font-size: 0.95rem;
+
     }
 
     nav a {
         width: 95%;
+        text-align: center;
+        box-sizing: border-box;
+    }
+
+    img, .card-img-wrapper img, header img {
+        max-width: 100%;
+        width: 100%;
+        height: auto ;
+        object-fit: cover;
+    }
+
+    .services-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .service-card {
+        width: 100%;
+        box-sizing: border-box;
     }
 }
 
@@ -397,57 +428,89 @@ section img:hover {
     filter: brightness(103%);
 }
 
+/* Form styles enquiry and contact page */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.site-logo {
-    font-size: 30px;
-    font-weight: bold;
-    
-    text-decoration: none;
+.custom-form {
+    background-color: #FFFFFF;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    max-width: 600px;
+    margin: 20px auto;
 }
 
-.main-navigation {
-    gap: 10px;
-    display: flex;
+.custom-form p {
+margin-bottom: 18px;
+text-align: left;
+
+clear: both;
+position: relative;
 }
 
-nav.link {
-    
-    color: #fff;
-    font-size: 16px;
-    padding: 10px 15px;
-    border-radius: none;
-    text-decoration: none;
+.custom-form label {
+    font-weight: 600;
+    color: #2d2d2d;
+    display: inline-block;
+    margin-bottom: 6px;
 }
 
-.nav-link{
-    background-color: cadetblue;
-    color: white;
+/* Form controls inputs dropdowns and text areas */
+.custom-form input[type="text"],
+.custom-form input[type="tel"],
+.custom-form input[type="email"],
+.custom-form input[type="date"],
+.custom-form select,
+
+
+.custom-form {
+width: 100%;
+padding: 12px 14px;
+margin-top: 4px;
+border: 1px solid #cccccc;
+border-radius: 6px;
+font-size: 1rem;
+font-family: inherit;
+box-sizing: border-box;
+background-color: #faf3e0;
+transition: border-color 0.3s, ease, box-shadow 0.3s ease, backgroud-color 0.3s ease;
+
 }
 
-.main-content {
+.custom-form textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+/* Interactive focus state */
+
+.custom-form input:focus,
+.custom-form select:focus,
+.custom-form textarea:focus {
+    outline: none;
+    border-color: #0056b3;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 6px rgba(0, 86, 179, 0.3);
+}
+
+/* Full width submit button */
+.custom-form .btn-primary,
+.custom-form button[type="submit"],
+.custom-form input[type= "submit"] {
     width: 100%;
-    min-height: 78vh;
-}  
-
-section {
-    padding: 60px 8%;
-    text-align: center;
+    padding: 12px;
+    font-size: 1.05rem;
+    margin-top: 10px;
+    cursor: pointer;
 }
+
+
+
+
+
+
+
+
+
 
 
