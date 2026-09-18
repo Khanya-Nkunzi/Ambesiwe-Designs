@@ -43,6 +43,13 @@ Git&Github
 
 ## file Structure 
 - css/style.css - Main stylesheet for all layout rules, colors, forms and mobile screen updates.
--  
+
+-  ---
+
+## References
+1. **W3C CSS Grid and Flexbox Guides**
+ - Mozilla Developer Network (MDN). *CSS Grid Layout*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+ - 
+3. 
 - 
    
