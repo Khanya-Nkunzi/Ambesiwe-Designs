@@ -24,4 +24,7 @@ Git&Github
    Part 2 of the Ambesiwe Designs web application focuses on transforming the core HTML skeleton into fully interactive, mobile responsive digital showroom using CSS.
 ---
 ## Technical CSS Implememntation 
+### 1. Layout Engine and Architecture 
+- **CSS Grid Systems:** Used .services grid with repeat (auto-fit, minimax280px , fr ) to arrange service card neatly in rows.
+- **FLexbox:** Used Flexbox to line up menu links, form items and footer icons.
    
