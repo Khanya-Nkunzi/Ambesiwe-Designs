@@ -51,6 +51,8 @@ Git&Github
  - Mozilla Developer Network (MDN). *CSS Grid Layout*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
  - Mozilla Developer Network (MDN). *Basic Concepts of Flexbox*. Available at: https://developer.mozilla.org/en-US/docs/CSS_layout/flexbox
    
-2. 
-- 
+2. **Responsive Design Standards**
+   - Marcotte, E., 2010. *Responsive Web Design*. A List Apart. Available at: https://alistapart.com/article/responsive-web-design/
+     
+3. **
    
