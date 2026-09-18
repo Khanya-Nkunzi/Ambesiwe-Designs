@@ -40,6 +40,9 @@ Git&Github
 - **Form Layout:** fixed spacing between label and <textare> tags so text does not overlap.
 
 - ---
+
+## file Structure 
+- css/style.css - Main stylesheet for all layout rules, colors, forms and mobile screen updates.
 -  
 - 
    
