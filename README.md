@@ -18,3 +18,7 @@ Git&Github
 1. Clone or download the repository
 2. Open the project folder in Vs Code
 3. Launch index.html using the live in any browser
+
+4. # POE Part 2 : CSS styling
+   ## Overview
+   Part 2 of the Ambesiwe Designs web application focuses on transforming the core HTML skeleton into fully interactive, mobile responsive digital showroom using CSS.
