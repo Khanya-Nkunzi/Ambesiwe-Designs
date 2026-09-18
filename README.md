@@ -22,3 +22,6 @@ Git&Github
 4. # POE Part 2 : CSS styling
    ## Overview
    Part 2 of the Ambesiwe Designs web application focuses on transforming the core HTML skeleton into fully interactive, mobile responsive digital showroom using CSS.
+---
+##
+   
