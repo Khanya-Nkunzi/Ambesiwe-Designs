@@ -31,4 +31,7 @@ Git&Github
 - 
 - ## 2. Mobile Responsive Design
 - ** Media Queries:** Added @media screen and (max-width: 768px) to stack items vertically on small screens and phones.
+- **Fluid Images:** Set object fit: cover and dynamic widths on images so they scale without stretching or breaking the layout.
+- **Mobile Forms** Adjusted input padding and text size to make typing easy on phone touchscreens.
+- 
    
