@@ -54,5 +54,6 @@ Git&Github
 2. **Responsive Design Standards**
    - Marcotte, E., 2010. *Responsive Web Design*. A List Apart. Available at: https://alistapart.com/article/responsive-web-design/
      
-3. **
+3. **External Libraries**
+   - Font Awesome Icon CDN. Available at: https://cdjns.cloudflare.com/ajax/libs/font-awesome/
    
