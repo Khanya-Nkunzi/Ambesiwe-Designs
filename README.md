@@ -28,4 +28,7 @@ Git&Github
 - **CSS Grid Systems:** Used .services grid with repeat (auto-fit, minimax280px , fr ) to arrange service card neatly in rows.
 - **FLexbox:** Used Flexbox to line up menu links, form items and footer icons.
 - **Page Resets:** Added box-sizing: border-box and max width : 100% so content does not overflow off the screen.
+- 
+- ## 2. Mobile Responsive Design
+- ** Media Queries:** Added @media screen and (max-width: 768px) to stack items vertically on small screens and phones.
    
