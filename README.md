@@ -36,7 +36,10 @@ Git&Github
 
 - ## 3. Colors and Interactivity
 - **Brand Colors:** Applied Royal blue , warm Terracotta and soft Ochre across the site.
-- **Hover and Focus Effects:**    Added zoom effects on pictures when hovered, smooth button hover animations and blue border outlines when clicking into input boxes.
+- **Hover and Focus Effects:** Added zoom effects on pictures when hovered, smooth button hover animations and blue border outlines when clicking into input boxes.
+- **Form Layout:** fixed spacing between label and <textare> tags so text does not overlap.
+
+- ---
 -  
 - 
    
