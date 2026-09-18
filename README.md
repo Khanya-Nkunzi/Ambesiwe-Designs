@@ -49,7 +49,8 @@ Git&Github
 ## References
 1. **W3C CSS Grid and Flexbox Guides**
  - Mozilla Developer Network (MDN). *CSS Grid Layout*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
- - 
-3. 
+ - Mozilla Developer Network (MDN). *Basic Concepts of Flexbox*. Available at: https://developer.mozilla.org/en-US/docs/CSS_layout/flexbox
+   
+2. 
 - 
    
