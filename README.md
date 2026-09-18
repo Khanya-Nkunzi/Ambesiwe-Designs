@@ -8,7 +8,7 @@ about.html - Brand story, core values and founder profiel
 services.html - List of custom tailoring and alteration services
 enquiry.html - Booking and quote enquiry form
 contact.html - Location, contact details and operating hours
-------------------------------------
+--
 ## Built with
 HtMl5
 Visual Studio Code
