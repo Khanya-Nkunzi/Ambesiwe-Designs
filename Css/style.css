@@ -601,17 +601,20 @@ filter-container {
     height: 100%;
     overflow: auto;
     background-color: rgba(0, 0, 0, 0.85);
+    align-items: center;
+    justify-content: center;
 }
 
 .lightbox-content {
     margin: auto;
     display: block;
     max-width: 80%;
-    max-height: 80vh;
+    max-height: 885vh;
     border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 
-.lightbox-close {
+.close-lightbox {
     position: absolute;
     top: 20px;
     right: 35px;
@@ -619,6 +622,7 @@ filter-container {
     font-size: 40px;
     font-weight: bold;
     cursor: pointer;
+    transition: color 0.3s;
 }
 
 #lightbox-caption {

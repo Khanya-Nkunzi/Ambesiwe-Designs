@@ -27,23 +27,33 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // 2. LIGHTBOX GALLERY
-    const lightbox = document.getElementById("lightbox");
-    const lightboxImg = document.getElementById("lightbox-img");
-    const lightboxCaption = document.getElementById("lightbox-caption");
-    const lightboxClose = document.querySelector(".lightbox-close");
+    const lightbox = document.getElementById("LightboxModal") || document.getElementById("lightbox");
+    const lightboxImg = document.getElementById("lightbox-img") || document.getElementById("lightbox-img");
+    const closeBtn = document.querySelector(".close-lightbox") || document.querySelector(".lightbox-close");
 
-    if (lightbox) {
-        document.querySelectorAll(".lightbox-trigger").forEach(img => {
+    if (lightbox && lightboxImg && closeBtn) {
+        // Selects images across portfolio cards
+        const galleryImages = document.querySelectorAll(".portfolio-card img, .gallery img, .about-img img, .service-card img, img.portfolio-img, main img");
+
+        galleryImages.forEach(img => {
+            img.style.cursor = "pointer";
             img.addEventListener("click", function () {
-                lightbox.style.display = "block";
+                lightbox.style.display = "flex";
                 lightboxImg.src = this.src;
-                lightboxCaption.innerHTML = this.alt;
+
             });
         });
 
-        lightboxClose.addEventListener("click", () => lightbox.style.display = "none");
-        lightbox.addEventListener("click", (e) => {
-            if (e.target === lightbox) lightbox.style.display = "none";
+        if (closeBtn) {
+            closeBtn.addEventListener("click", function () {
+                lightbox.style.display = "none";
+            });
+        }
+
+        lightbox.addEventListener("click", function (e) {
+            if (e.target === lightbox) {
+                lightbox.style.display = "none";
+            }
         });
     }
 
