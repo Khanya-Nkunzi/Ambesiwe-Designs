@@ -608,10 +608,11 @@ filter-container {
 .lightbox-content {
     margin: auto;
     display: block;
-    max-width: 80%;
-    max-height: 885vh;
+    max-width: 60%;
+    max-height: 70vh;
     border-radius: 8px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6);
+    object-fit: contain;
 }
 
 .close-lightbox {
