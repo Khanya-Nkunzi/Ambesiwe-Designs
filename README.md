@@ -1,3 +1,4 @@
+
 # Ambesiwe-Designs
 A multi page website built for Ambesiwe Designs, a bespoke tailoring shop based in Komani (Queenstown) specializing in custom traditional Xhosa attire, wedding wear and beaedwork.
 
@@ -57,6 +58,66 @@ Git&Github
 3. **External Libraries**
    - Font Awesome Icon CDN. Available at: https://cdjns.cloudflare.com/ajax/libs/font-awesome/
   - W3Schools Web Safe Fonts Guide. Available at: https://w3schools.com/css_websafe_fonts.php
+---
+   ## POE PART 3 JavaScript
+ ### Overview
+ Part 3 introduces advanced front-end scripting and user experience enhancements to make the Ambesiwe Designs website fully dynamic and responsive.
+ 
+ ### Technical JavaScript and UX Features
+ * **1. Universal lightbox Gallery:**
+ *  **Dynamic Modal Control: Automatically injects clicked image sources into a fixed screen overlay modal ('#lightboxModal') with centered framing ('max-width:60%,'max height : 70vh').
+ *  **Event Handlers:** Configured closing triggers via an explicit close button  and background are clicks.
+
+* **2. Interactive Service Accordions:**
+* **Class-Based Toggling:** Used '.active' class toggling to expand and collapse service description content dynamically.
+* **Visual Feedback:** Programmed chevron icons ('fa-chevron-down' / 'fa-chevron-up) to rotate smoothly upon user click interactions.
+* **3. Enquiry Form Validation:**
+* **Input Checking:** Validates user form submissions to ensure essential fields (name, email, message) contain valid data before processing.
+* **Dynamic Feedback:** Provides immediate interface responses and calculation handling upon successful form submission.
+  ---
+  ## File Structure
+  * 'css/style.css' - Main stylesheet for all layout rules, colors, forms and mobile screen updates.
+  * 'js/main.js - JavaScript module handling lightbox functionality, dynamic accordions and form validation across all pages.
+    ---
+    ## References
+    * **W3C Grid and Flexbox Guides:**
+    * Mozilla Developer Network (MDN). "CSS Grid Layout". Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+    * Mozilla Developer Network (MDN). "Basic Concepts of Flexbox". Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
+    * **Responsive Design Standards:**
+    * Marcotte, E., 2010. "Responsive Web Design". A list Apart. Available at: https://alistapart.com/article/responsive-web-design/
+    * **External Libraries"**
+    * Font Awesome Icon CDN. Available at: https://cdnjs.cloudflare.com/ajax/libs/font-awsome/
+    * W3Schools Web Safe Fonts Guide. Available at: https://www.w3schools.com/css/css_websafe_fonts.asp
+   
+    # Change log
+    all changes made to "Ambesiwe Designs" project
+    ## ( Part 3 : JavaScript Interactivity)
+    ### Added
+    * ** Universal Lightbox Gallery:** Implemented a shared JavaScript event listener in main.js targeting portfolio and gallery images across all pages.
+    * **Lightbox Modal Dynamic Styling:** Created a fixed screen overlay with centered framing ('max-width: 60%' 'max height: 70 vh').
+    * **Interactive Service Accordions:** Added class-based toggling ('.active) to service cards to dynamically expand and collapse content panels.
+    * **Chevron Icon Animation:** Programmed chevron icons to rotate smoothly upon user click interactions.
+    * **Enquiry Form Validation:** Added input verification to ensure essential user fields are checked before processing.
+      ---
+      ## (POE PART 2: CSS Styling and Responsiveness)
+      ### Added
+      * **CSS Grid and flexbox Layouts:** Implemented responsive card arrangements and navigation flexbox structures.
+      *  **Mobile Responsive Media Queries:** Added @media screen and rules to stack layout elements vertically on smaller screens.
+      *  **Brand Styling and color Palette:** Applied Royal blue, warm Terracotta,  and soft Ochre color schemes consistently.
+      *  **Hover and Focus Animations:** Added smooth zoom effects on portfolio pictures and button hover transitions.
+      ---
+      ## (Core Structures and Pages)
+      ### Added
+      * **Multi-Page Architecture:** Created index.html, servces.html, about.html, enquiry.html and contact.html.
+      * **Semantic HTML Markup:** Structured main content areas, headers and footers using modern HTML5 elements .
+        ---
+        
+             
+      
+    
+  
+ 
+  
    
 ![Ambesiwe Design Home Page](../Ambesiwe-Designs/Assets/home.page.png)
 ![Ambesiwe Design Contact Page](./Assets/contac.page.png)
