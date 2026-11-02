@@ -109,7 +109,8 @@ Git&Github
       ## (Core Structures and Pages)
       ### Added
       * **Multi-Page Architecture:** Created index.html, servces.html, about.html, enquiry.html and contact.html.
-      * **Se
+      * **Semantic HTML Markup:** Structured main content areas, headers and footers using modern HTML5 elements .
+        ---
              
       
     
