@@ -74,6 +74,7 @@ Git&Github
 * **Input Checking:** Validates user form submissions to ensure essential fields (name, email, message) contain valid data before processing.
 * **Dynamic Feedback:** Provides immediate interface responses and calculation handling upon successful form submission.
   ---
+  ## File Structure
   
   
  
