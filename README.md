@@ -87,7 +87,7 @@ Git&Github
     * Marcotte, E., 2010. "Responsive Web Design". A list Apart. Available at: https://alistapart.com/article/responsive-web-design/
     * **External Libraries"**
     * Font Awesome Icon CDN. Available at: https://cdnjs.cloudflare.com/ajax/libs/font-awsome/
-    * 
+    * W3Schools Web Safe Fonts Guide. Available at: https://www.w3schools.com/css/css_websafe_fonts.asp
     
   
  
