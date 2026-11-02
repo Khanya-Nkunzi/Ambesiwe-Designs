@@ -100,7 +100,13 @@ Git&Github
     * **Enquiry Form Validation:** Added input verification to ensure essential user fields are checked before processing.
       ---
       ## (POE PART 2: CSS Styling and Responsiveness)
-      ### 
+      ### Added
+      * **CSS Grid and flexbox Layouts:** Implemented responsive card arrangements and navigation flexbox structures.
+      *  **Mobile Responsive Media Queries:** Added @media screen and rules to stack layout elements vertically on smaller screens.
+      *  **Brand Styling and color Palette:** Applied Royal blue, warm Terracotta,  and soft Ochre color schemes consistently.
+      *  **Hover and Focus Animations:** Added smooth zoom effects on portfolio pictures and button hover transitions.
+      ---
+             
       
     
   
