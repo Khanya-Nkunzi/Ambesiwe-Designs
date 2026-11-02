@@ -1,3 +1,4 @@
+
 # Ambesiwe-Designs
 A multi page website built for Ambesiwe Designs, a bespoke tailoring shop based in Komani (Queenstown) specializing in custom traditional Xhosa attire, wedding wear and beaedwork.
 
@@ -81,6 +82,9 @@ Git&Github
     ## References
     * **W3C Grid and Flexbox Guides:**
     * Mozilla Developer Network (MDN). "CSS Grid Layout". Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+    * Mozilla Developer Network (MDN). "Basic Concepts of Flexbox". Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
+    * **Responsive Design Standards:**
+    * 
     
   
  
