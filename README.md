@@ -79,6 +79,8 @@ Git&Github
   * 'js/main.js - JavaScript module handling lightbox functionality, dynamic accordions and form validation across all pages.
     ---
     ## References
+    * **W3C Grid and Flexbox Guides:**
+    * Mozilla Developer Network (MDN). "CSS Grid Layout". Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
     
   
  
