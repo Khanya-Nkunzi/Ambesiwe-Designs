@@ -99,6 +99,8 @@ Git&Github
     * **Chevron Icon Animation:** Programmed chevron icons to rotate smoothly upon user click interactions.
     * **Enquiry Form Validation:** Added input verification to ensure essential user fields are checked before processing.
       ---
+      ## (POE PART 2: CSS Styling and Responsiveness)
+      ### 
       
     
   
