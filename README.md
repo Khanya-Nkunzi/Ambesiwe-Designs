@@ -111,15 +111,10 @@ Git&Github
       * **Multi-Page Architecture:** Created index.html, servces.html, about.html, enquiry.html and contact.html.
       * **Semantic HTML Markup:** Structured main content areas, headers and footers using modern HTML5 elements .
         ---
-        
-             
       
-    
-  
- 
-  
    
 ![Ambesiwe Design Home Page](../Ambesiwe-Designs/Assets/home.page.png)
 ![Ambesiwe Design Contact Page](./Assets/contac.page.png)
 ![Ambesiwe Design Services Page](./Assets/services.page.png)
 ![Ambesiwe Design About Page](./Assets/about.page.png)
+![Ambesiwe Design About Page](./Assets/services.page%20pictures.png)
