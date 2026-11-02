@@ -66,6 +66,11 @@ Git&Github
  * **1. Universal lightbox Gallery:**
  *  **Dynamic Modal Control: Automatically injects clicked image sources into a fixed screen overlay modal ('#lightboxModal') with centered framing ('max-width:60%,'max height : 70vh').
  *  **Event Handlers:** Configured closing triggers via an explicit close button  and background are clicks.
+
+* **2. Interactive Service Accordions:**
+* **Class-Based Toggling:** Used '.active' class toggling to expand and collapse service description content dynamically.
+* **Visual Feedback:** Programmed chevron icons ('fa-chevron-down' / 'fa-chevron-up) to rotate smoothly upon user click interactions
+  
  
   
    
