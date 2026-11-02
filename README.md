@@ -62,5 +62,10 @@ Git&Github
  ### Overview
  Part 3 introduces advanced front-end scripting and user experience enhancements to make the Ambesiwe Designs website fully dynamic and responsive.
  
+ ### Technical JavaScript and UX Features
+ * **1. Universal lightbox Gallery:**
+ *  **Dynamic Modal Control: Automatically injects clicked image sources into a fixed screen overlay modal ('#lightboxModal') with centered framing ('max-width:60%,'max height : 70vh').
+ *  **Event Handlers:** Configured closing triggers via an explicit close button  and background are clicks.
+ 
   
    
