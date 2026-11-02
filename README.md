@@ -58,7 +58,7 @@ Git&Github
    - Font Awesome Icon CDN. Available at: https://cdjns.cloudflare.com/ajax/libs/font-awesome/
   - W3Schools Web Safe Fonts Guide. Available at: https://w3schools.com/css_websafe_fonts.php
 ---
-  - ## POE PART 3 JavaScript
+   ## POE PART 3 JavaScript
  ### Overview
  Part 3 introduces advanced front-end scripting and user experience enhancements to make the Ambesiwe Designs website fully dynamic and responsive.
  
@@ -69,7 +69,12 @@ Git&Github
 
 * **2. Interactive Service Accordions:**
 * **Class-Based Toggling:** Used '.active' class toggling to expand and collapse service description content dynamically.
-* **Visual Feedback:** Programmed chevron icons ('fa-chevron-down' / 'fa-chevron-up) to rotate smoothly upon user click interactions
+* **Visual Feedback:** Programmed chevron icons ('fa-chevron-down' / 'fa-chevron-up) to rotate smoothly upon user click interactions.
+* **3. Enquiry Form Validation:**
+* **Input Checking:** Validates user form submissions to ensure essential fields (name, email, message) contain valid data before processing.
+* **Dynamic Feedback:** Provides immediate interface responses and calculation handling upon successful form submission.
+  
+  
   
  
   
