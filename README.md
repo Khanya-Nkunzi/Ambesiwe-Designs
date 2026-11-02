@@ -77,6 +77,7 @@ Git&Github
   ## File Structure
   * 'css/style.css' - Main stylesheet for all layout rules, colors, forms and mobile screen updates.
   * 'js/main.js - JavaScript module handling lightbox functionality, dynamic accordions and form validation across all pages.
+    ---
   
  
   
