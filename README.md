@@ -112,7 +112,8 @@ Git&Github
       * **Semantic HTML Markup:** Structured main content areas, headers and footers using modern HTML5 elements .
         ---
       
-   
+   ![Pictures showing the inspection of the website]
+
 ![Ambesiwe Design Home Page](../Ambesiwe-Designs/Assets/home.page.png)
 ![Ambesiwe Design Contact Page](./Assets/contac.page.png)
 ![Ambesiwe Design Services Page](./Assets/services.page.png)
