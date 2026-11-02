@@ -57,4 +57,10 @@ Git&Github
 3. **External Libraries**
    - Font Awesome Icon CDN. Available at: https://cdjns.cloudflare.com/ajax/libs/font-awesome/
   - W3Schools Web Safe Fonts Guide. Available at: https://w3schools.com/css_websafe_fonts.php
+---
+  - ## POE PART 3 JavaScript
+ ### Overview
+ Part 3 introduces advanced front-end scripting and user experience enhancements to make the Ambesiwe Designs website fully dynamic and responsive.
+ 
+  
    
