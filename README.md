@@ -106,6 +106,10 @@ Git&Github
       *  **Brand Styling and color Palette:** Applied Royal blue, warm Terracotta,  and soft Ochre color schemes consistently.
       *  **Hover and Focus Animations:** Added smooth zoom effects on portfolio pictures and button hover transitions.
       ---
+      ## (Core Structures and Pages)
+      ### Added
+      * **Multi-Page Architecture:** Created index.html, servces.html, about.html, enquiry.html and contact.html.
+      * **Se
              
       
     
