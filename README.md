@@ -75,7 +75,7 @@ Git&Github
 * **Dynamic Feedback:** Provides immediate interface responses and calculation handling upon successful form submission.
   ---
   ## File Structure
-  
+  * 'css/style.css' - Main stylesheet for all layout rules, colors, forms and mobile screen updates.
   
  
   
