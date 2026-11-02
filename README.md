@@ -88,6 +88,18 @@ Git&Github
     * **External Libraries"**
     * Font Awesome Icon CDN. Available at: https://cdnjs.cloudflare.com/ajax/libs/font-awsome/
     * W3Schools Web Safe Fonts Guide. Available at: https://www.w3schools.com/css/css_websafe_fonts.asp
+   
+    # Change log
+    all changes made to "Ambesiwe Designs" project
+    ## ( Part 3 : JavaScript Interactivity)
+    ### Added
+    * ** Universal Lightbox Gallery:** Implemented a shared JavaScript event listener in main.js targeting portfolio and gallery images across all pages.
+    * **Lightbox Modal Dynamic Styling:** Created a fixed screen overlay with centered framing ('max-width: 60%' 'max height: 70 vh').
+    * **Interactive Service Accordions:** Added class-based toggling ('.active) to service cards to dynamically expand and collapse content panels.
+    * **Chevron Icon Animation:** Programmed chevron icons to rotate smoothly upon user click interactions.
+    * **Enquiry Form Validation:** Added input verification to ensure essential user fields are checked before processing.
+      ---
+      
     
   
  
